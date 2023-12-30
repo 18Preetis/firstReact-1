@@ -1,0 +1,22 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+
+.item{
+  background-color:blue;
+  align-content:center;
+  align-self:center;
+  color:pink;
+}
+
+
+#button{
+  background:green;
+  color:white;
+  cursor:pointer;
+  border:none;
+  
+  
+}
